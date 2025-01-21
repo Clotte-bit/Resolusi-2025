@@ -2,7 +2,9 @@ Rencana
 
 Javascript
 *Buat framework
+
 *belajar view
 Python
 *machine learning
 Mechine learning
+
