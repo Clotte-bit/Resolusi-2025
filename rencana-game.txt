@@ -2,7 +2,9 @@ Rencana
 
 Javascript
 *Buat framework
-*aular
-*react js
+
+*belajar view
 Python
-laravel
+*machine learning
+Mechine learning
+
